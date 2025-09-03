@@ -1,9 +1,9 @@
 # Task Manager App
 
 ## Live Links
-- Frontend: https://task-manager.vercel.app
-- Backend API: https://task-manager-api.onrender.com
-- GitHub Repo: https://github.com/YOUR_USERNAME/task-manager
+- Frontend: [https://task-manager.vercel.app](https://task-manager-mocha-zeta.vercel.app/)
+- Backend API: [https://task-manager-api.onrender.com](https://task-manager-api-0ju4.onrender.com)
+- GitHub Repo: https://github.com/PrachiNainwani31/task-manager
 
 ## 📽 Demo Video
 [Watch Here](https://loom.com/share/your-demo-link)
