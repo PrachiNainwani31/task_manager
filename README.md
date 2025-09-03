@@ -6,7 +6,7 @@
 - GitHub Repo: https://github.com/PrachiNainwani31/task-manager
 
 ## 📽 Demo Video
-[Watch Here](https://loom.com/share/your-demo-link)
+[Watch Here]([https://loom.com/share/your-demo-link](https://drive.google.com/file/d/1DNCItt-BpFVyeWoeCM76DrgZq0bV1fqQ/view?usp=sharing))
 
 ## Features
 - User signup/login (JWT)
